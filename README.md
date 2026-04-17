@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Hello%2C%20dtai168-000000?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
 
   <h1>🌌 Welcome to my universe!</h1>
-  <h3>Full-Stack Developer | Tech Enthusiast | Open to Collaboration</h3>
+  <h3>Backend Developer | Tech Enthusiast | Open to Collaboration</h3>
   
   <br>
   <p>
@@ -16,9 +16,9 @@
 
 ### 💻 About Me
 
-* 🎯 **Current Focus:** Crafting applications with **.NET Core**, **Python**, and **React**.
-* 📚 **Learning Next:** Mastering **Cloud Solutions (AWS/GCP)** and **DevOps**.
-* 🤝 **Collaborations:** Open to discussions on **AI/ML**, **Web3**, and **Blockchain**.
+* 🎯 Current Focus: Building AI-driven applications, specifically focusing on LLMs, RAG, and Transformers with Python.
+* 📚 Learning Next: Integrating Computer Vision (OpenCV) and optimizing DataOps pipelines (LangChain, Docker).
+* 🤝 Collaborations: Open to discussions on Natural Language Processing (NLP), Computer Vision (OpenCV), Information Extraction, and Algorithm optimization.
 
 <br>
 
